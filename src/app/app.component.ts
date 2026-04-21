@@ -31,7 +31,6 @@ export class AppComponent implements OnInit, OnDestroy{
     private particlesService: ParticlesService,
     private loadingService: LoadingService
     ){
-        console.log('GA ID:', environment.trackAnalyticID);
     }
   ngOnInit(): void{
 
