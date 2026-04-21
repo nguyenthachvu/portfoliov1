@@ -1,0 +1,227 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Featured Projects",
+  "Header.Item5": "Other Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Curriculum Vitae",
+  "Header.cvName": "CV_Jose_Hernandez_English.pdf",
+  "Header.Resume": "Resume",
+  "Loading": "Loading...",
+  "Banner.Name": "VUX",
+  "Banner.Pretitle": "Hi! I'm",
+  "Banner.Description": "I am a Full-stack Developer with <span class='underline'>over 8 years of experience</span> building large-scale systems. On the **Backend**, I specialize in system architecture design, applying <span class='underline'>Design Patterns</span> and clean code principles to ensure maintainability and scalability. On the **Frontend**, I focus on developing high-performance Web and Mobile applications using the <span class='underline'>Angular</span>, <span class='underline'>Ionic</span>, and <span class='underline'>Cordova</span> ecosystem, ensuring optimal user experience across all devices.",
+  "Banner.ActionBtn": "Say Hello",
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "With <span class='underline'>over 8 years of experience</span> in the software industry, I have progressed from a System Analyst to a <span class='underline'>Technical Lead</span>. My primary focus is building highly scalable systems, emphasizing sustainable code structure and optimizing real-world operational workflows.",
+    "My core strength lies in **Backend architecture**. I am proficient in implementing <span class='underline'>Clean Architecture</span>, <span class='underline'>Modular Monolith</span>, and various <span class='underline'>Design Patterns</span> (such as Repository, Unit of Work, CQRS). I believe that a robust system starts from a well-structured foundation, making it easier to scale and maintain.",
+    "In parallel, I possess strong execution capabilities across multi-platform environments (Web & Mobile Hybrid) using the Angular, Ionic, and Cordova stack. Below are the technologies I master and frequently apply:"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Global",
+      "Title": "Fullstack Developer",
+      "Date": "May 2023",
+      "Description": [
+        "Led technical decision-making",
+        "Recruited technical talent for the company",
+        "Head of the technology team",
+        "Built and maintained an internal process management platform for course sales",
+        "Developed custom functions and plugins to personalize the WordPress platform",
+        "Implemented continuous integration and daily backups",
+        "Participated in planning meetings and reporting"
+      ]
+    },
+    {
+      "Tab": "Proyex",
+      "Title": "Fullstack Developer",
+      "Date": "December 2019 - May 2023",
+      "Description": [
+        "Built and maintained a monitoring platform with charts in WordPress",
+        "Developed features in templates and plugins to support monitoring requirements",
+        "Implemented continuous integration and daily backups",
+        "Built and maintained a second monitoring platform using Angular, Angular Material, Laravel, MySQL, RxJS, and Sass with configurable charts, alert systems, user management, and global parameter configuration",
+        "Participated in planning meetings and reporting"
+      ]
+    },
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Date": "May 2016 - Present",
+      "Description": [
+        "Delivered continuous improvements across both frontend and backend",
+        "Built platforms using Angular, Laravel, and WordPress with functional, reactive, and object-oriented programming paradigms",
+        "Automated processes using structured data approaches",
+        "Designed interfaces using SASS, Bootstrap, Materialize, Bulma, etc."
+      ]
+    },
+    {
+      "Tab": "Moebius",
+      "Title": "Fullstack Developer",
+      "Date": "July 2017 - October 2018",
+      "Description": [
+        "Led a team of 4 developers to build a travel data management platform using Angular, Laravel, and MySQL",
+        "Implemented CI/CD on Azure and optimized application load time",
+        "Developed API interactions using RxJS",
+        "Built modules with complex reactive forms",
+        "Prepared weekly reports on goals and plans"
+      ]
+    },
+    {
+      "Tab": "TechLatam",
+      "Title": "Frontend Developer",
+      "Date": "February 2016 - May 2017",
+      "Description": [
+        "Built WordPress templates with ACF, implemented JavaScript/jQuery functionality, and styled using SASS",
+        "Improved design quality and template loading performance",
+        "Collaborated effectively with design teams using Avocode/Figma"
+      ]
+    },
+    {
+      "Tab": "CANTV",
+      "Title": "System Analyst",
+      "Date": "November 2015 - December 2016",
+      "Description": [
+        "Developed new features for an employee management platform built with Angular and ExpressJS",
+        "Refactored legacy code and ensured dependency compatibility across updates, including Angular upgrades"
+      ]
+    },
+    {
+      "Tab": "IEP",
+      "Title": "English Teacher",
+      "Date": "January 2015 - July 2015",
+      "Description": [
+        "Taught basic English to over 200 students"
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Featured Professional Experience",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "iVIVU Train Ticket Booking System",
+      "Description": "A key project where I **served as the primary developer**. I built the entire flow from user interface to automated booking processing system. The system leverages Angular 19 and .NET 8, integrates WebSockets for real-time ticket status updates, and handles complex background processing tasks via Background Jobs.",
+      "imgs": [
+        "assets/images/vtl/vtl1.png",
+        "assets/images/vtl/vtl2.png",
+        "assets/images/vtl/vtl3.png"
+      ],
+      "Technologies": [
+        "Angular 19",
+        "Tailwind CSS",
+        "Ant Design",
+        ".NET 8",
+        "Redis",
+        "SQL Server (T-SQL)",
+        "SignalR",
+        "Elasticsearch",
+        "Background Jobs",
+        "Hangfire"
+      ]
+    },
+    {
+      "Title": "Online Flight Booking Platform",
+      "Description": "I **contributed to the development** of key modules in iVIVU's flight booking system. Focused on optimizing flight search performance and integrating APIs from both domestic and international airlines. Ensured system stability during peak promotional periods with high traffic loads.",
+      "imgs": [
+        "assets/images/flight/flight1.png",
+        "assets/images/flight/flight2.png",
+        "assets/images/flight/flight3.png"
+      ],
+      "Technologies": [
+        "Angular 15",
+        ".NET Core 2.1",
+        "Elasticsearch",
+        "T-SQL"
+      ]
+    },
+    {
+      "Title": "Hotel Booking Portal",
+      "Description": "Contributed to the **development and maintenance** of a global hotel booking system. Responsible for optimizing SEO metadata for destination pages and improving mobile user experience. Participated in building advanced filtering features and managing customer reviews.",
+      "imgs": [
+        "assets/images/hotel/hotel1.png",
+        "assets/images/hotel/hotel2.png",
+        "assets/images/hotel/hotel3.png"
+      ],
+      "Technologies": [
+        "Angular 19",
+        ".NET Core 8",
+        "Elasticsearch",
+        "T-SQL",
+        "Ant Design",
+        "SEO Optimization"
+      ]
+    },
+    {
+      "Title": "Plutos Agent Application",
+      "Description": "A cross-platform mobile application designed for partners and agents, integrating hotel and flight services. I **served as Lead Developer**, using Ionic Framework to optimize performance across iOS and Android. The system enables agents to manage cash flow, track order status in real-time, and execute bookings efficiently through deeply integrated APIs.",
+      "imgs": [
+        "assets/images/agency/app5.png"
+      ],
+      "Technologies": [
+        "Ionic Framework",
+        "Angular",
+        "Capacitor",
+        "TypeScript",
+        "RESTful API",
+        "SignalR"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "Notable Side Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "E-learning & Online Examination System",
+      "Description": "Developed an E-learning platform supporting multiple exam formats (multiple choice, essay) and integrated monetization for learning materials. Applied a service-oriented architecture in Angular with flexible interfaces and component systems.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [
+        "Angular",
+        ".NET 5 (Web API)",
+        "CQRS Pattern",
+        "MediatR",
+        "Entity Framework Core"
+      ]
+    },
+    {
+      "Title": "Payment Gateway & Transaction Orchestration System",
+      "Description": "Designed and developed a middleware gateway system integrating directly with Bao Kim. Applied Clean Architecture to clearly separate business logic, ensuring maintainability and scalability. Led backend development for payment processing flows, webhook integrations, and built an admin dashboard for reconciliation and merchant management.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [
+        ".NET 10",
+        "Clean Architecture",
+        "Bao Kim API Integration",
+        "Dependency Injection",
+        "Repository & Unit of Work Pattern",
+        "SQL Server",
+        "Angular (Admin Dashboard)"
+      ]
+    },
+    {
+      "Title": "Football Academy Management System (VietGoal)",
+      "Description": "Designed and developed a microservices-based system on .NET 8 to manage academy operations, separating domains such as student management, coach coordination, finance, and commerce. Built for scalability and large-scale operations. The admin interface was developed with Angular and Ant Design, focusing on UX and optimizing data entry and real-time reporting workflows.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [
+        ".NET 8 (Microservices)",
+        "Clean Architecture",
+        "Angular",
+        "NG-ZORRO (Ant Design)",
+        "Ocelot API Gateway",
+        "RabbitMQ (Asynchronous Messaging)",
+        "SQL Server & Redis",
+        "Docker & Kubernetes"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "And now?",
+  "Contact.Title": "Get In Touch",
+  "Contact.Content": "I am always open to new opportunities and challenges. If you find my profile suitable for your needs, feel free to send me an email or connect with me عبر the social platforms below. I will respond as soon as possible.",
+  "Contact.Btn": "Contact Me",
+  "Contact.SocialTitle": "Connect with me via"
+}

@@ -1,0 +1,122 @@
+@use "./../../../../variables" as *;
+
+.contact {
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .container {
+    width: 100%;
+  }
+
+  .contact-title {
+    font-size: clamp(40px, 5vw, 60px);
+    font-weight: 600;
+    color: $LightestSlate;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+  }
+
+  p {
+    color: $Slate;
+    max-width: 550px;
+    margin: 0 auto 50px;
+    line-height: 1.6;
+    font-size: 18px;
+  }
+}
+
+.social-icons {
+  .social-title {
+    color: $Green;
+    font-family: $CodeFont;
+    font-size: 13px;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+
+  .social-cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 15px;
+    justify-content: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .social-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+    background: rgba($LightNavy, 0.3);
+    border: 1px solid rgba($Green, 0.15);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    position: relative;
+
+    i, .zalo-svg {
+      font-size: 24px;
+      width: 24px;
+      height: 24px;
+      margin-bottom: 12px;
+      color: $Green;
+      fill: $Green; // Quan trọng để SVG đổi màu
+      transition: transform 0.3s ease;
+    }
+
+    .card-label {
+      font-family: $CodeFont;
+      font-size: 11px;
+      font-weight: 500;
+      color: $Slate;
+      letter-spacing: 0.5px;
+      transition: color 0.3s ease;
+    }
+
+    &:hover {
+      background: rgba($Green, 0.1);
+      border-color: $Green;
+      transform: translateY(-8px);
+      box-shadow: 0 10px 30px -15px rgba($Green, 0.3);
+
+      i, .zalo-svg {
+        transform: scale(1.1);
+      }
+
+      .card-label {
+        color: $LightestSlate;
+      }
+    }
+  }
+}
+
+// Responsive cho Mobile
+@media (max-width: 768px) {
+  .social-cards-wrapper {
+    grid-template-columns: repeat(3, 1fr); // Chia 3 cột trên tablet/mobile
+    gap: 10px;
+  }
+  
+  .social-card {
+    padding: 15px 5px;
+    border-radius: 8px;
+    
+    i, .zalo-svg { font-size: 20px; }
+    .card-label { font-size: 10px; }
+  }
+}
+
+@media (max-width: 400px) {
+  .social-cards-wrapper {
+    grid-template-columns: repeat(2, 1fr); // Chia 2 cột cho màn hình cực nhỏ
+  }
+}

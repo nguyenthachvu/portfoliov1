@@ -1,0 +1,227 @@
+{
+	"Header.Item1": "Về tôi",
+	"Header.Item2": "Kinh nghiệm",
+	"Header.Item3": "Dự án chính",
+	"Header.Item5": "Dự án ngoài",
+	"Header.Item4": "Liên hệ",
+	"Header.cvBtn": "Lý lịch",
+	"Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+	"Header.Resume": "Resume",
+	"Loading": "Đang tải...",
+	"Banner.Name": "VUX",
+	"Banner.Pretitle": "Xin chào! Tôi là",
+	"Banner.Description": "Tôi là một nhà phát triển Full-stack với <span class='underline'>hơn 8 năm kinh nghiệm</span> xây dựng các hệ thống quy mô lớn. Về **Backend**, tôi chuyên sâu vào việc thiết kế kiến trúc hệ thống, áp dụng các <span class='underline'>Design Patterns</span> và nguyên lý mã nguồn sạch giúp hệ thống dễ dàng bảo trì và mở rộng. Về **Frontend**, tôi tập trung phát triển các ứng dụng Web và Mobile hiệu suất cao trên hệ sinh thái <span class='underline'>Angular</span>, <span class='underline'>Ionic</span> và <span class='underline'>Cordova</span>, đảm bảo trải nghiệm người dùng tối ưu trên mọi thiết bị.",
+	"Banner.ActionBtn": "Chào hỏi",
+	"AboutMe.Title": "Về tôi",
+	"AboutMe.Paragraphs": [
+		"Với <span class='underline'>hơn 8 năm kinh nghiệm</span> trong ngành phần mềm, tôi đã đi từ vai trò Chuyên viên phân tích hệ thống đến <span class='underline'>Technical Lead</span>. Trọng tâm công việc của tôi là xây dựng những hệ thống có khả năng chịu tải cao, chú trọng vào việc thiết kế cấu trúc mã nguồn bền vững và tối ưu hóa quy trình vận hành thực tế.",
+		"Thế mạnh cốt lõi của tôi nằm ở kiến trúc **Backend**. Tôi thành thạo việc triển khai các mô hình <span class='underline'>Clean Architecture</span>, <span class='underline'>Modular Monolith</span> và các <span class='underline'>Design Patterns</span> (như Repository, Unit of Work, CQRS). Tôi tin rằng một hệ thống tốt bắt đầu từ một cấu trúc chuẩn mực, giúp việc mở rộng và bảo trì trở nên dễ dàng.",
+		"Song song đó, tôi sở hữu năng lực thực thi mạnh mẽ trên các nền tảng đa thiết bị (Web & Mobile Hybrid) với bộ ba <span class='underline'>Angular</span>, <span class='underline'>Ionic</span> và <span class='underline'>Cordova</span>. Dưới đây là những công nghệ tôi làm chủ và thường xuyên ứng dụng:"
+	],
+	"Experience.Title": "Kinh nghiệm",
+	"Experience.Jobs": [
+		{
+			"Tab": "Global",
+			"Title": "Lập trình viên Fullstack",
+			"Date": "Tháng 5 năm 2023",
+			"Description": [
+				"Lãnh đạo trong việc đưa ra quyết định kỹ thuật",
+				"Tuyển dụng nhân tài kỹ thuật cho công ty",
+				"Trưởng nhóm phòng công nghệ",
+				"Tạo và duy trì nền tảng quản lý quy trình nội bộ cho bán khoá học",
+				"Lập trình các hàm và plugin tùy chỉnh để cá nhân hóa nền tảng WordPress",
+				"Triển khai tích hợp liên tục và sao lưu hàng ngày",
+				"Họp kế hoạch và báo cáo"
+			]
+		},
+		{
+			"Tab": "Proyex",
+			"Title": "Lập trình viên Fullstack",
+			"Date": "Tháng 12 năm 2019 - Tháng 5 năm 2023",
+			"Description": [
+				"Tạo và duy trì nền tảng giám sát với biểu đồ trong WordPress",
+				"Lập trình chức năng trong templates và plugins để thêm các tính năng giám sát cần thiết",
+				"Triển khai tích hợp liên tục và sao lưu hàng ngày",
+				"Tạo và duy trì nền tảng Giám sát thứ hai được thực hiện trong Angular, Angular Material, Laravel, Mysql, RxJS, Sass với biểu đồ (có thể cấu hình), hệ thống báo động, và quản lý người dùng cùng cấu hình các tham số chung",
+				"Họp kế hoạch và báo cáo"
+			]
+		},
+		{
+			"Tab": "Freelancer",
+			"Title": "Độc lập",
+			"Date": "Tháng 5 năm 2016 - Hiện tại",
+			"Description": [
+				"Triển khai cải tiến liên tục, làm việc trên frontend và backend",
+				"Tạo nền tảng với Angular, Laravel, WordPress được lập trình với các mô hình lập trình chức năng, phản ứng và hướng đối tượng",
+				"Tự động hóa quy trình với cấu trúc dữ liệu",
+				"Thiết kế giao diện với SASS, Bootstrap, Materialize, Bulma, v.v."
+			]
+		},
+		{
+			"Tab": "Moebius",
+			"Title": "Lập trình viên FullStack",
+			"Date": "Tháng 7 năm 2017 - Tháng 10 năm 2018",
+			"Description": [
+				"Lãnh đạo một nhóm 4 người trong việc phát triển nền tảng quản lý Dữ liệu du lịch được tạo trong Angular, Laravel và MySQL",
+				"Triển khai CI/CD trong Azure. Tái cấu trúc và tối ưu thời gian tải ứng dụng",
+				"Mã hóa yêu cầu API với RxJS",
+				"Tạo module với form reactive phức tạp",
+				"Soạn báo cáo hàng tuần về mục tiêu và kế hoạch"
+			]
+		},
+		{
+			"Tab": "TechLatam",
+			"Title": "Lập trình viên Frontend",
+			"Date": "Tháng 2 năm 2016 - Tháng 5 năm 2017",
+			"Description": [
+				"Tạo template WordPress với ACF, lập trình chức năng trong JavaScript / jQuery, kiểu dáng trong SASS",
+				"Tích hợp cải tiến trong thiết kế và thời gian tải template",
+				"Giao tiếp hiệu quả với nhóm thiết kế, làm việc với Avocode / Figma"
+			]
+		},
+		{
+			"Tab": "CANTV",
+			"Title": "Chuyên viên phân tích hệ thống",
+			"Date": "Tháng 11 năm 2015 - Tháng 12 năm 2016",
+			"Description": [
+				"Lập trình tính năng mới cho nền tảng quản lý nhân viên hiện có được thực hiện trong Angular và ExpressJS",
+				"Thực hiện tái cấu trúc mã cũ. Đảm bảo khả năng tương thích của từng dependency trong mỗi bản cập nhật, cùng với việc cập nhật thường xuyên Angular"
+			]
+		},
+		{
+			"Tab": "IEP",
+			"Title": "Giáo viên tiếng Anh",
+			"Date": "Tháng 1 năm 2015 - Tháng 7 năm 2015",
+			"Description": [
+				"Dạy tiếng Anh cấp độ cơ bản cho hơn 200 học sinh"
+			]
+		}
+	],
+	"FeatureProjects.Title": "Kinh nghiệm làm chính nổi bật",
+	"FeatureProjects.Label": "Dự án nổi bật",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Hệ thống Đặt vé tàu iVIVU",
+			"Description": "Dự án trọng điểm mà tôi **đảm nhiệm vai trò phát triển chính**. Tôi xây dựng toàn bộ quy trình từ giao diện người dùng đến hệ thống xử lý đặt chỗ tự động. Hệ thống sử dụng <span class='underline'>Angular 19</span> và <span class='underline'>.NET 8</span>, tích hợp <span class='underline'>WebSockets</span> để cập nhật trạng thái vé theo thời gian thực và xử lý các tác vụ hàng đợi phức tạp qua <span class='underline'>Background Jobs</span>.",
+			"imgs": [
+				"assets/images/vtl/vtl1.png",
+				"assets/images/vtl/vtl2.png",
+				"assets/images/vtl/vtl3.png"
+			],
+			"Technologies": [
+				"Angular 19",
+				"Tailwind CSS",
+				"Ant Design",
+				".NET 8",
+				"Redis",
+				"SQL Server (T-SQL)",
+				"SignalR",
+				"Elasticsearch",
+				"Background Jobs",
+				"Hangfire"
+			]
+		},
+		{
+			"Title": "Nền tảng Đặt vé máy bay trực tuyến",
+			"Description": "Tôi **tham gia phát triển** các module quan trọng trong hệ thống đặt vé máy bay của iVIVU. Tập trung vào việc tối ưu hóa hiệu suất tìm kiếm chuyến bay, tích hợp API của các hãng hàng không nội địa và quốc tế. Đảm bảo tính ổn định của hệ thống trong các đợt cao điểm khuyến mãi với lượng truy cập lớn.",
+			"imgs": [
+				"assets/images/flight/flight1.png",
+				"assets/images/flight/flight2.png",
+				"assets/images/flight/flight3.png"
+			],
+			"Technologies": [
+				"Angular 15",
+				".NET Core 2.1",
+				"Elasticsearch",
+				"T-SQL"
+			]
+		},
+		{
+			"Title": "Cổng thông tin Đặt phòng Khách sạn",
+			"Description": "Đóng góp vào việc **phát triển và bảo trì** hệ thống đặt phòng khách sạn toàn cầu. Tôi chịu trách nhiệm tối ưu hóa SEO Metadata cho các trang điểm đến và cải thiện trải nghiệm người dùng trên thiết bị di động (Mobile Responsive). Tham gia xây dựng các tính năng lọc phòng nâng cao và quản lý đánh giá từ khách hàng.",
+			"imgs": [
+				"assets/images/hotel/hotel1.png",
+				"assets/images/hotel/hotel2.png",
+				"assets/images/hotel/hotel3.png"
+			],
+			"Technologies": [
+				"Angular 19",
+				".NET Core 8",
+				"Elasticsearch",
+				"T-SQL",
+				"Ant Design",
+				"SEO Optimization"
+			]
+		},
+		{
+			"Title": "Ứng dụng Đại lý Plutos",
+			"Description": "Ứng dụng di động đa nền tảng dành riêng cho đối tác và đại lý của Plutos, tích hợp toàn diện dịch vụ Khách sạn và Vé máy bay. Tôi **đảm nhiệm vai trò phát triển chính (Lead Developer)**, sử dụng <span class='underline'>Ionic Framework</span> để tối ưu hóa trải nghiệm trên cả iOS và Android. Hệ thống hỗ trợ đại lý quản lý dòng tiền, theo dõi trạng thái đơn hàng thời gian thực và thực hiện quy trình đặt dịch vụ nhanh chóng thông qua các <span class='underline'>API tích hợp sâu</span>.",
+			"imgs": [
+				"assets/images/agency/app5.png"
+			],
+			"Technologies": [
+				"Ionic Framework",
+				"Angular",
+				"Capacitor",
+				"TypeScript",
+				"RESTful API",
+				"SignalR"
+			]
+		}
+	],
+	"OtherProjects.Title": "Kinh nghiệm làm ngoài nổi bật",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Hệ thống quản lý giáo dục và khảo thí trực tuyến",
+			"Description": "Phát triển nền tảng E-learning hỗ trợ đa dạng hình thức thi (trắc nghiệm, tự luận) và tích hợp hệ thống thương mại hóa tài liệu học tập. Ứng dụng kiến trúc Service-oriented trên Angular với hệ thống Interface và Component linh hoạt.",
+			"imgs": [],
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": [
+				"Angular",
+				".NET 5 (Web API)",
+				"CQRS Pattern",
+				"MediatR",
+				"Entity Framework Core"
+			]
+		},
+		{
+			"Title": "Cổng thanh toán trung gian & Hệ thống điều phối giao dịch",
+			"Description": "Thiết kế và phát triển hệ thống Gateway trung gian kết nối trực tiếp với đối tác Bảo Kim. Ứng dụng chặt chẽ kiến trúc Clean Architecture để phân tách rõ rệt Business Logic, giúp hệ thống dễ dàng bảo trì và mở rộng. Chịu trách nhiệm chính trong việc xây dựng toàn bộ Backend xử lý luồng thanh toán, tích hợp Webhook và phát triển trang quản trị (Admin Dashboard) để đối soát, quản lý Merchant.",
+			"imgs": [],
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": [
+				".NET 10",
+				"Clean Architecture",
+				"Bao Kim API Integration",
+				"Dependency Injection",
+				"Repository & Unit of Work Pattern",
+				"SQL Server",
+				"Angular (Admin Dashboard)"
+			]
+		},
+		{
+			"Title": "Hệ thống quản trị vận hành học viện bóng đá (VietGoal)",
+			"Description": "Thiết kế và phát triển hệ thống quản lý học viện theo kiến trúc Microservices trên nền tảng .NET 8, giúp tách biệt các nghiệp vụ độc lập như: Quản lý học viên, Điều phối huấn luyện viên, Tài chính và Thương mại. Hệ thống hỗ trợ vận hành quy mô lớn với khả năng mở rộng linh hoạt. Giao diện quản trị được xây dựng trên Angular kết hợp thư viện Ant Design, tập trung vào trải nghiệm người dùng hệ thống (UX) và tối ưu hóa quy trình nhập liệu, báo cáo thời gian thực.",
+			"imgs": [],
+			"ghLink": "",
+			"demoLink": "",
+			"Technologies": [
+				".NET 8 (Microservices)",
+				"Clean Architecture",
+				"Angular",
+				"NG-ZORRO (Ant Design)",
+				"Ocelot API Gateway",
+				"RabbitMQ (Asynchronous Messaging)",
+				"SQL Server & Redis",
+				"Docker & Kubernetes"
+			]
+		}
+	],
+	"Contact.Pretitle": "Và... bây giờ?",
+	"Contact.Title": "Liên hệ với tôi",
+	"Contact.Content": "Tôi luôn sẵn lòng đón nhận các cơ hội hợp tác và những thử thách mới. Nếu bạn thấy hồ sơ của tôi phù hợp với vị trí đang tìm kiếm, đừng ngần ngại gửi email hoặc kết nối qua các nền tảng mạng xã hội bên dưới. Tôi sẽ phản hồi sớm nhất có thể.",
+	"Contact.Btn": "Liên hệ tôi",
+	"Contact.SocialTitle": "Kết nối với tôi qua"
+}
