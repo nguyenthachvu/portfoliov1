@@ -4,8 +4,8 @@ import { LanguageService } from 'src/app/services/language/language.service';
 import { animate, query, stagger, style, transition, trigger } from '@angular/animations';
 import { Component, HostListener, OnInit, TemplateRef } from '@angular/core';
 import { UntypedFormControl } from '@angular/forms';
-import { Router } from '@angular/router';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
+import { Router } from '@angular/router';
 import { NgbModal, NgbModalRef } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
@@ -74,6 +74,7 @@ export class HeaderComponent implements OnInit {
       this.cvModalRef = this.modalService.open(content, {
         backdropClass: 'cv-modal-backdrop',
         centered: true,
+        fullscreen: true,
         size: 'xl',
         windowClass: 'cv-modal-window'
       });
